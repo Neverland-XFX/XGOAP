@@ -1,0 +1,2 @@
+# XGOAP
+基于GOAP的AI库
